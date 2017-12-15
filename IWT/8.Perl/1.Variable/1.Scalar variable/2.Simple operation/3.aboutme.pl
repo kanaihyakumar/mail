@@ -1,0 +1,10 @@
+print("Enter your name: ");
+$name=<>;
+print("Enter your age: ");
+$age=<>;
+print("Enter your gender: ");
+$gender=<>;
+print("Enter your registration no.: ");
+$regno=<>;
+print("\n\n\nABOUT ME\n");
+print($name,$age,$gender,$regno);
